@@ -1,0 +1,26 @@
+{
+  "name": "truemodels-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lperez-dev/truemodels-backend.git"
+  },
+  "keywords": [
+    "true",
+    "models",
+    "teen",
+    "girl",
+    "pretty"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lperez-dev/truemodels-backend/issues"
+  },
+  "homepage": "https://github.com/lperez-dev/truemodels-backend#readme"
+}
